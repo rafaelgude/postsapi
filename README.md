@@ -1,2 +1,2 @@
 # postsapi
-Simple Posts API to practice knowledge about JUnit and Mockito
+Projeto para testar conhecimentos de JUnit e Mockito
